@@ -1,1 +1,1 @@
-install the req libraries. configure the history_file_path in the server.py. set your domain/ip where needed. Requires webserver.
+open port 6979 for the socket. Install a webserver such as nginx and serve the HTML file. install the req libraries. configure the history_file_path in the server.py. set your domain/ip where needed. Requires webserver.
